@@ -4,16 +4,26 @@ Mann's Flight Time Equation written in Java.
 This is an equasion I developed with the assistance of a Friend during our first year of Computer Science at University in London.
 
 ## The Equasion Inputs.
+
 ---> Departure Date.
+
 ---> Departure Time.
+
 ---> Arrival Date.
+
 ---> Arrival Time. 
+
 ---> Time Difference *(Based on the difference from departure time.)*
 
+
 ## The Equasions Assumptions.
+
 ---> The Flight between two locations is direct with no stops or changeovers.
+
 ---> The Flight Information prodivded includes the **Arrival** _and_ **Departure** time.
+
 ---> The Flight Times Provided are based on the 24 hour timing convension.
+
 
 ## Future Developments. 
 I am currently working on a GUI version of this flight time calculator being developed in Java using Java SWING for the GUI.
