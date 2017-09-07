@@ -35,4 +35,6 @@ Feel free to contact me via Discord or Twitter.
 
 ---> **Twitter:** - https://twitter.com/Ash_Logic
 
----> **Discord:** - https://discord.gg/xDeTR4Q _(This is a Development Discord for bots I am developing with friends - More the merrier)_
+---> **Discord:** - https://discord.gg/xDeTR4Q 
+
+_(This is a Development Discord for bots I am developing with friends - More the merrier)_
