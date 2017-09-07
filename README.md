@@ -1,9 +1,9 @@
 # Mann-s-Flight-Time-Calculation-Code
 Mann's Flight Time Equation written in Java.
 
-This is an equasion I developed with the assistance of a Friend during our first year of Computer Science at University in London.
+This is an equation I developed with the assistance of a Friend during our first year of Computer Science at University in London.
 
-## The Equasion Inputs.
+## The Equation Inputs.
 
 ---> Departure Date.
 
@@ -16,7 +16,7 @@ This is an equasion I developed with the assistance of a Friend during our first
 ---> Time Difference *(Based on the difference from departure time.)*
 
 
-## The Equasions Assumptions.
+## The Equations Assumptions.
 
 ---> The Flight between two locations is direct with no stops or changeovers.
 
